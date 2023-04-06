@@ -10,6 +10,7 @@ class PresensiController extends Controller
 
     public function index()
     {
+        // echo 'kd';
         return view('presensi.index');
     }
 }

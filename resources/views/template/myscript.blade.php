@@ -18,6 +18,8 @@
     <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
     <!-- Base Js File -->
     <script src="assets/js/base.js"></script>
+    <script src="{{ asset('assets/js/lib/webcame.js') }}"></script>
+    <script src="{{ asset('assets/maps/leaflet.js') }}"></script>
     <script src="assets/js/myscript.js"></script>
 
     <script>

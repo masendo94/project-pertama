@@ -1,0 +1,11 @@
+.webcame, .webcame video {
+  width: 100% !important;
+  height: auto !important;
+  margin: auto;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+#map {
+  height: 300px;
+}

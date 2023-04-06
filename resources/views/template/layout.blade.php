@@ -17,20 +17,9 @@
     <link rel="icon" type="image/png" href="assets/img/favicon.png" sizes="32x32">
     <link rel="apple-touch-icon" sizes="180x180" href="assets/img/icon/192x192.png">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/mycss.css">
     <link rel="manifest" href="__manifest.json">
-    <style>
-        .webcame, .webcame video {
-            width: 100% !important;
-            height: auto !important;
-            margin: auto;
-            display: inline-block;
-            border-radius: 10px;
-        }
-
-        #map {
-            height: 300px;
-        }
-    </style>
+    <link rel="stylesheet" href="{{ asset('assets/maps/leaflet.css') }}">
 </head>
 
 <body style="background-color:#e9ecef;">
