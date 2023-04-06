@@ -18,6 +18,7 @@
     <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
     <!-- Base Js File -->
     <script src="assets/js/base.js"></script>
+    <script src="assets/js/myscript.js"></script>
 
     <script>
         am4core.ready(function () {
